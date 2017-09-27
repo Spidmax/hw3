@@ -2,7 +2,7 @@ strokeWeight(3);
 stroke(0);
 noFill();
 
-x = 0;
+var x = 0;
 
 while (true) {
   background(255);

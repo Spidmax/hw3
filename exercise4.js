@@ -4,7 +4,7 @@ noFill();
 
 var x = 0;
 
-while (x < 200) {
+while (x < 210) {
 	background(255);
 	ellipse(100+x, 100, 50, 50)
 	x = x + 10;
